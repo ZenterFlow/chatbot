@@ -1,0 +1,11 @@
+streamlit
+llama-index
+pypdf
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-openai
+chromadb
+unstructured
+tiktoken
